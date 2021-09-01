@@ -24,3 +24,5 @@ hs_err_pid*
 
 */.idea/*
 */target/*
+tdj-ehcache/cache-1/
+tdj-ehcache/cache-2/

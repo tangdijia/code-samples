@@ -1,0 +1,15 @@
+server:
+  port: 8888
+
+ehcache:
+  config: ehcache-cluster-1.xml
+
+
+management:
+  endpoint:
+    shutdown:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"

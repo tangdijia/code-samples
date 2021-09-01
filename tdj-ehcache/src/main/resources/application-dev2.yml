@@ -1,0 +1,14 @@
+server:
+  port: 8889
+
+ehcache:
+  config: ehcache-cluster-2.xml
+
+management:
+  endpoint:
+    web:
+      exposure:
+        include: shutdown
+    shutdown:
+      enabled: true
+      sensitive: false
