@@ -1,0 +1,4 @@
+server:
+  port: 8090
+
+hadoop.config.path: src/main/resources/hadoop-conf
