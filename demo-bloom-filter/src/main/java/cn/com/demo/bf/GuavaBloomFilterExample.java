@@ -1,4 +1,4 @@
-package cn.com.tdj.bf;
+package cn.com.demo.bf;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
