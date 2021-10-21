@@ -1,4 +1,4 @@
-package cn.com.tdj.kafka;
+package cn.com.demo.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

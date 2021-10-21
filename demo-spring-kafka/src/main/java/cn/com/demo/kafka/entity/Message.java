@@ -1,4 +1,4 @@
-package cn.com.tdj.kafka.entity;
+package cn.com.demo.kafka.entity;
 
 import lombok.Data;
 import lombok.ToString;

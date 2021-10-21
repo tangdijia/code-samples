@@ -1,7 +1,6 @@
-package cn.com.tdj.kafka.controller;
+package cn.com.demo.kafka.controller;
 
-import cn.com.tdj.kafka.consumer.KafkaConsumer;
-import cn.com.tdj.kafka.producer.KafkaProducer;
+import cn.com.demo.kafka.producer.KafkaProducer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
